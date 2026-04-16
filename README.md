@@ -19,7 +19,6 @@ Dil: Python
 
 Sistem Entegrasyonu: OS ve Subprocess kütüphaneleri ile sistem komutları yönetimi.
 
-Neden Bu Proje CV'mde Var?
-Bu çalışma benim için bir kodlama ödevinden ziyade; çevremdeki bir problemi fark edip, ona uygun teknolojiyi seçerek hızlı ve etkili bir çözüm üretme becerimin bir göstergesidir. Gerçek bir geliştirici, elindeki araçları hayatını kolaylaştırmak için kullanandır.
-
+Neden Bu Proje ?
+Bu çalışma benim için bir kodlama ödevinden ziyade; çevremdeki bir problemi fark edip, ona uygun teknolojiyi seçerek hızlı ve etkili bir çözüm üretme becerimin bir göstergesidir.
 Geliştirici: Emirhan Yazıcı
