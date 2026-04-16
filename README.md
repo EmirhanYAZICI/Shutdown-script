@@ -8,7 +8,7 @@ Problem: Bilgisayarda bir şeyler izleyip uyku moduna geçtikten sonra, fiziksel
 
 
 Özellikler
-Uzaktan Güç Yönetimi: Telefon üzerinden PC'yi kapatma veya uykuya alma.
+Uzaktan Güç Yönetimi: mesela bilgisayardaki işimi 40 dakika sürcek film veyay dizi şarkı dinleyecegim zaman yatakda yatarak dinlemeyi veya birşeyler izlemeyi seviyorum bu doğrultuda bende bir daha ayağüa kalkmamak için sayacımı baslatıyorum ve süresi bitince bilgisayar otomatik kendisi kapanıyor.
 
 Hızlı Erişim: Yataktan kalkmadan, yerel ağ üzerinden anlık komut iletimi.
 
