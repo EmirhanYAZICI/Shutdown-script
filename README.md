@@ -2,7 +2,7 @@
 
 
 
-> \*\*"Üşengeçliğin Mühendisliğe Dönüşümü: Problem Çözme Odaklı Bir Geliştirici Yaklaşımı."\*\*
+> \*\*"Üşengeçliğin Mühendisliğe Dönüşümü."\*\*
 
 
 
